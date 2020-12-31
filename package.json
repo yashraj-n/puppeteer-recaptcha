@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-recaptcha-solver",
+  "version": "1.0.0",
+  "description": "A package for solving Recaptcha with puppeteer",
+  "main": "index.js",
+  "repository": "https://github.com/PlayCosiYT/puppeteer-recaptcha",
+  "author": "Yashraj Narke",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/puppeteer": "^5.4.2",
+    "axios": "^0.21.1",
+    "https": "^1.0.0",
+    "puppeteer": "^5.5.0"
+  }
+}
